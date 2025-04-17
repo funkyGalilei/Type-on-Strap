@@ -1,6 +1,7 @@
 ---
+layout: post
 title: "Abstract Cloud Animation in Processing"
-feature-img: assets/images/clouds.png
+feature-img: "assets/images/clouds.png"
 categories:
 - Visualization
 - Programming
@@ -10,6 +11,7 @@ tags:
 - art
 - abstract
 ---
+
 I originally featured the word "Quick" in the title of this article, but unfortunately for most of my creative project's it was more difficult than anticipated and ballooned into having multiple different options.
 The first thing I enjoyed about this project was creating a class to hold every "cloud" (or circle with a variable alpha value)'s data set. I have variables for:
 - the previosuly mentioned alpha values, the speed of the horizontal direction
