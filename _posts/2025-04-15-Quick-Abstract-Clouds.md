@@ -1,6 +1,6 @@
 ---
 title: "Abstract Cloud Animation in Processing"
-featured-image: clouds.png
+feature-img: assets/images/clouds.png
 categories:
 - Visualization
 - Programming
